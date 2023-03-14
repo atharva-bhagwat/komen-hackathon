@@ -110,3 +110,12 @@ X., Luo, Y., Khan, S. A., & Clare, S. E. (2020). Somatic genetic
 aberrations in benign breast disease and the risk of subsequent breast
 cancer. *Npj Breast Cancer*, *6*(1), Article 1.
 [<https://doi.org/10.1038/s41523-020-0165-z>](https://doi.org/10.1038/s41523-020-0165-z)
+
+## Authors
+- Aurél György Prósz (Danish Cancer Society Research Center)
+- Atharva Charuhas Bhagwat (New York University)
+- Davis Davalos-DeLosh (University of Colorado Boulder)
+- German Corredor (Emory University) 
+- Tugba Yildiran Ozmen (Oregon Health and Science University)
+- Pavel Avdeyev (University of Texas Southwestern Medical Center) - Tech facilitator  
+- Harikrishna Nakshatri (Indiana University School of Medicine) - Team Lead  
